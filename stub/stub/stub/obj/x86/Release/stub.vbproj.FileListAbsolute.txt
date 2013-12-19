@@ -1,0 +1,10 @@
+C:\Users\TONY\Documents\GitHub\masterMakerBuilder\stub\stub\stub\bin\Release\stub.exe
+C:\Users\TONY\Documents\GitHub\masterMakerBuilder\stub\stub\stub\bin\Release\stub.pdb
+C:\Users\TONY\Documents\GitHub\masterMakerBuilder\stub\stub\stub\bin\Release\stub.xml
+C:\Users\TONY\Documents\GitHub\masterMakerBuilder\stub\stub\stub\obj\x86\Release\stub2.principal.resources
+C:\Users\TONY\Documents\GitHub\masterMakerBuilder\stub\stub\stub\obj\x86\Release\stub2.Resources.resources
+C:\Users\TONY\Documents\GitHub\masterMakerBuilder\stub\stub\stub\obj\x86\Release\stub2.tiempoInsuficiente.resources
+C:\Users\TONY\Documents\GitHub\masterMakerBuilder\stub\stub\stub\obj\x86\Release\stub.vbproj.GenerateResource.Cache
+C:\Users\TONY\Documents\GitHub\masterMakerBuilder\stub\stub\stub\obj\x86\Release\stub.exe
+C:\Users\TONY\Documents\GitHub\masterMakerBuilder\stub\stub\stub\obj\x86\Release\stub.xml
+C:\Users\TONY\Documents\GitHub\masterMakerBuilder\stub\stub\stub\obj\x86\Release\stub.pdb
